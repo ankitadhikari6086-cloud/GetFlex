@@ -3,7 +3,7 @@
    ========================================================= */
 
 // 1) CONFIG ------------------------------------------------
-const TMDB_API_KEY = "YOUR_TMDB_API_KEY";   // get a free key at https://www.themoviedb.org/settings/api
+const TMDB_API_KEY = "bf4b204c69171ee40ac5de1ba2340132";   // get a free key at https://www.themoviedb.org/settings/api
 const TMDB_BASE    = "https://api.themoviedb.org/3";
 const IMG_POSTER   = "https://image.tmdb.org/t/p/w342";
 const IMG_BACKDROP = "https://image.tmdb.org/t/p/w1280";
